@@ -1,0 +1,249 @@
+Disease,SmokingStatus,PathologicStage,PrimarySite,FollowupResp,n
+Adenomas and Adenocarcinomas,Current Reformed Smoker for < or = 15 yrs,'--,Bronchus and lung,'--,82
+Adenomas and Adenocarcinomas,Current Reformed Smoker for > 15 yrs,'--,Bronchus and lung,'--,58
+Adenomas and Adenocarcinomas,Current Reformed Smoker for < or = 15 yrs,'--,Bronchus and lung,WT-With Tumor,56
+Adenomas and Adenocarcinomas,Current Smoker,'--,Bronchus and lung,'--,47
+Adenomas and Adenocarcinomas,Current Reformed Smoker for < or = 15 yrs,'--,Bronchus and lung,TF-Tumor Free,44
+Adenomas and Adenocarcinomas,Current Reformed Smoker for > 15 yrs,'--,Bronchus and lung,TF-Tumor Free,40
+Adenomas and Adenocarcinomas,Current Reformed Smoker for < or = 15 yrs,Stage IA,Bronchus and lung,'--,39
+Adenomas and Adenocarcinomas,Current Reformed Smoker for < or = 15 yrs,Stage IB,Bronchus and lung,'--,35
+Adenomas and Adenocarcinomas,Current Reformed Smoker for > 15 yrs,Stage IA,Bronchus and lung,TF-Tumor Free,34
+Adenomas and Adenocarcinomas,Current Reformed Smoker for < or = 15 yrs,Stage IB,Bronchus and lung,TF-Tumor Free,33
+Adenomas and Adenocarcinomas,Current Reformed Smoker for > 15 yrs,Stage IA,Bronchus and lung,'--,33
+Adenomas and Adenocarcinomas,Current Reformed Smoker for < or = 15 yrs,Stage IA,Bronchus and lung,TF-Tumor Free,32
+Adenomas and Adenocarcinomas,Current Smoker,Stage IB,Bronchus and lung,'--,30
+Adenomas and Adenocarcinomas,Current Reformed Smoker for > 15 yrs,'--,Bronchus and lung,WT-With Tumor,28
+Adenomas and Adenocarcinomas,Current Reformed Smoker for > 15 yrs,Stage IB,Bronchus and lung,TF-Tumor Free,28
+Adenomas and Adenocarcinomas,Current Smoker,Stage IA,Bronchus and lung,'--,28
+Adenomas and Adenocarcinomas,Current Smoker,'--,Bronchus and lung,WT-With Tumor,27
+Adenomas and Adenocarcinomas,Current Reformed Smoker for > 15 yrs,Stage IB,Bronchus and lung,'--,25
+Adenomas and Adenocarcinomas,Lifelong Non-Smoker,'--,Bronchus and lung,'--,25
+Adenomas and Adenocarcinomas,Current Reformed Smoker for < or = 15 yrs,Stage IIIA,Bronchus and lung,'--,24
+Adenomas and Adenocarcinomas,Current Smoker,Stage IA,Bronchus and lung,TF-Tumor Free,24
+Adenomas and Adenocarcinomas,Current Smoker,'--,Bronchus and lung,TF-Tumor Free,22
+Adenomas and Adenocarcinomas,Current Smoker,Stage IB,Bronchus and lung,TF-Tumor Free,22
+Adenomas and Adenocarcinomas,Lifelong Non-Smoker,Stage IB,Bronchus and lung,TF-Tumor Free,19
+Adenomas and Adenocarcinomas,Current Reformed Smoker for > 15 yrs,Stage IIIA,Bronchus and lung,'--,18
+Adenomas and Adenocarcinomas,Lifelong Non-Smoker,Stage IB,Bronchus and lung,'--,18
+Adenomas and Adenocarcinomas,Lifelong Non-Smoker,'--,Bronchus and lung,WT-With Tumor,17
+Adenomas and Adenocarcinomas,Current Reformed Smoker for < or = 15 yrs,Stage IIB,Bronchus and lung,'--,16
+Adenomas and Adenocarcinomas,Current Reformed Smoker for < or = 15 yrs,Stage IIA,Bronchus and lung,'--,15
+Adenomas and Adenocarcinomas,Current Smoker,Stage IIIA,Bronchus and lung,'--,15
+Adenomas and Adenocarcinomas,Lifelong Non-Smoker,'--,Bronchus and lung,TF-Tumor Free,15
+Adenomas and Adenocarcinomas,Current Reformed Smoker for < or = 15 yrs,Stage IA,Bronchus and lung,WT-With Tumor,14
+Adenomas and Adenocarcinomas,Current Smoker,Stage IIB,Bronchus and lung,'--,14
+Adenomas and Adenocarcinomas,Current Reformed Smoker for < or = 15 yrs,Stage IIIA,Bronchus and lung,TF-Tumor Free,13
+Adenomas and Adenocarcinomas,Current Reformed Smoker for < or = 15 yrs,Stage IIB,Bronchus and lung,WT-With Tumor,12
+Adenomas and Adenocarcinomas,Current Smoker,Stage IIA,Bronchus and lung,'--,12
+Adenomas and Adenocarcinomas,Lifelong Non-Smoker,Stage IA,Bronchus and lung,TF-Tumor Free,12
+Adenomas and Adenocarcinomas,Current Reformed Smoker for < or = 15 yrs,Stage IB,Bronchus and lung,WT-With Tumor,11
+Adenomas and Adenocarcinomas,Current Reformed Smoker for < or = 15 yrs,Stage IIIA,Bronchus and lung,WT-With Tumor,11
+Adenomas and Adenocarcinomas,Current Reformed Smoker for > 15 yrs,Stage IIA,Bronchus and lung,'--,11
+Adenomas and Adenocarcinomas,Current Reformed Smoker for < or = 15 yrs,Stage IIA,Bronchus and lung,WT-With Tumor,10
+Adenomas and Adenocarcinomas,Current Reformed Smoker for > 15 yrs,Stage IIB,Bronchus and lung,'--,10
+Adenomas and Adenocarcinomas,Current Reformed Smoker for > 15 yrs,Stage IIIA,Bronchus and lung,WT-With Tumor,10
+Adenomas and Adenocarcinomas,Current Smoker,Stage IB,Bronchus and lung,WT-With Tumor,10
+Adenomas and Adenocarcinomas,Current Smoker,Stage IIA,Bronchus and lung,TF-Tumor Free,10
+Adenomas and Adenocarcinomas,Lifelong Non-Smoker,Stage IIB,Bronchus and lung,'--,10
+Adenomas and Adenocarcinomas,Current Reformed Smoker for < or = 15 yrs,Stage IIB,Bronchus and lung,TF-Tumor Free,9
+Adenomas and Adenocarcinomas,Current Smoker,Stage IIIA,Bronchus and lung,TF-Tumor Free,9
+Adenomas and Adenocarcinomas,Lifelong Non-Smoker,Stage IA,Bronchus and lung,'--,9
+Adenomas and Adenocarcinomas,Not Reported,'--,Bronchus and lung,'--,9
+Adenomas and Adenocarcinomas,Current Reformed Smoker for < or = 15 yrs,Stage IV,Bronchus and lung,'--,8
+Adenomas and Adenocarcinomas,Current Reformed Smoker for > 15 yrs,Stage IIA,Bronchus and lung,TF-Tumor Free,8
+Adenomas and Adenocarcinomas,Not Reported,'--,Bronchus and lung,WT-With Tumor,8
+Adenomas and Adenocarcinomas,Current Reformed Smoker for < or = 15 yrs,Stage IIA,Bronchus and lung,TF-Tumor Free,7
+Adenomas and Adenocarcinomas,Current Reformed Smoker for > 15 yrs,Stage IIB,Bronchus and lung,TF-Tumor Free,7
+Adenomas and Adenocarcinomas,Current Reformed Smoker for > 15 yrs,Stage IIIA,Bronchus and lung,TF-Tumor Free,7
+Adenomas and Adenocarcinomas,Current Smoker,Stage IA,Bronchus and lung,WT-With Tumor,7
+Adenomas and Adenocarcinomas,Current Smoker,Stage IIB,Bronchus and lung,TF-Tumor Free,7
+Adenomas and Adenocarcinomas,Current Smoker,Stage IIIA,Bronchus and lung,WT-With Tumor,7
+Adenomas and Adenocarcinomas,Lifelong Non-Smoker,Stage IIB,Bronchus and lung,TF-Tumor Free,7
+Adenomas and Adenocarcinomas,Current Reformed Smoker for < or = 15 yrs,Stage IV,Bronchus and lung,WT-With Tumor,6
+Adenomas and Adenocarcinomas,Current Reformed Smoker for > 15 yrs,'--,Bronchus and lung,Unknown,6
+Adenomas and Adenocarcinomas,Current Reformed Smoker for > 15 yrs,Stage IA,Bronchus and lung,WT-With Tumor,6
+Adenomas and Adenocarcinomas,Current Reformed Smoker for > 15 yrs,Stage IB,Bronchus and lung,WT-With Tumor,6
+Adenomas and Adenocarcinomas,Current Reformed Smoker for > 15 yrs,Stage IIB,Bronchus and lung,WT-With Tumor,6
+Adenomas and Adenocarcinomas,Current Smoker,Stage IIB,Bronchus and lung,WT-With Tumor,6
+Adenomas and Adenocarcinomas,Current Smoker,Stage IV,Bronchus and lung,'--,6
+Adenomas and Adenocarcinomas,Lifelong Non-Smoker,Stage IB,Bronchus and lung,WT-With Tumor,6
+Adenomas and Adenocarcinomas,Lifelong Non-Smoker,Stage IIA,Bronchus and lung,'--,6
+Acinar Cell Neoplasms,Current Reformed Smoker for > 15 yrs,'--,Bronchus and lung,'--,5
+Acinar Cell Neoplasms,Current Reformed Smoker for > 15 yrs,Stage IB,Bronchus and lung,'--,5
+Acinar Cell Neoplasms,Current Reformed Smoker for > 15 yrs,Stage IB,Bronchus and lung,TF-Tumor Free,5
+Adenomas and Adenocarcinomas,Current Reformed Smoker for < or = 15 yrs,Stage IB,Bronchus and lung,Unknown,5
+Adenomas and Adenocarcinomas,Current Reformed Smoker for > 15 yrs,Stage IIIA,Bronchus and lung,Unknown,5
+Adenomas and Adenocarcinomas,Current Smoker,Stage IV,Bronchus and lung,WT-With Tumor,5
+Adenomas and Adenocarcinomas,Lifelong Non-Smoker,Stage IIA,Bronchus and lung,TF-Tumor Free,5
+Adenomas and Adenocarcinomas,Lifelong Non-Smoker,Stage IV,Bronchus and lung,WT-With Tumor,5
+Acinar Cell Neoplasms,Current Reformed Smoker for > 15 yrs,'--,Bronchus and lung,TF-Tumor Free,4
+Acinar Cell Neoplasms,Current Reformed Smoker for > 15 yrs,Stage IA,Bronchus and lung,'--,4
+Acinar Cell Neoplasms,Current Reformed Smoker for > 15 yrs,Stage IA,Bronchus and lung,TF-Tumor Free,4
+Adenomas and Adenocarcinomas,Current Reformed Smoker for < or = 15 yrs,Stage IIIB,Bronchus and lung,'--,4
+Adenomas and Adenocarcinomas,Current Reformed Smoker for > 15 yrs,Stage IA,Bronchus and lung,Unknown,4
+Adenomas and Adenocarcinomas,Current Reformed Smoker for > 15 yrs,Stage IIA,Bronchus and lung,WT-With Tumor,4
+Adenomas and Adenocarcinomas,Current Smoker,Stage IA,Bronchus and lung,Unknown,4
+Adenomas and Adenocarcinomas,Current Smoker,Stage IIB,Bronchus and lung,Unknown,4
+Adenomas and Adenocarcinomas,Lifelong Non-Smoker,Stage IIB,Bronchus and lung,WT-With Tumor,4
+Adenomas and Adenocarcinomas,Lifelong Non-Smoker,Stage IIIA,Bronchus and lung,'--,4
+Adenomas and Adenocarcinomas,Lifelong Non-Smoker,Stage IIIA,Bronchus and lung,TF-Tumor Free,4
+Adenomas and Adenocarcinomas,Lifelong Non-Smoker,Stage IIIA,Bronchus and lung,WT-With Tumor,4
+Acinar Cell Neoplasms,Current Reformed Smoker for < or = 15 yrs,'--,Bronchus and lung,'--,3
+Acinar Cell Neoplasms,Current Reformed Smoker for < or = 15 yrs,'--,Bronchus and lung,TF-Tumor Free,3
+Acinar Cell Neoplasms,Current Reformed Smoker for < or = 15 yrs,Stage IIIA,Bronchus and lung,'--,3
+Acinar Cell Neoplasms,Current Reformed Smoker for < or = 15 yrs,Stage IIIA,Bronchus and lung,TF-Tumor Free,3
+Adenomas and Adenocarcinomas,Current Reformed Smoker for < or = 15 yrs,'--,Bronchus and lung,Unknown,3
+Adenomas and Adenocarcinomas,Current Reformed Smoker for < or = 15 yrs,Stage IA,Bronchus and lung,Unknown,3
+Adenomas and Adenocarcinomas,Current Reformed Smoker for < or = 15 yrs,Stage IIA,Bronchus and lung,Unknown,3
+Adenomas and Adenocarcinomas,Current Reformed Smoker for < or = 15 yrs,Stage IIIB,Bronchus and lung,WT-With Tumor,3
+Adenomas and Adenocarcinomas,Current Reformed Smoker for > 15 yrs,Stage I,Bronchus and lung,'--,3
+Adenomas and Adenocarcinomas,Current Reformed Smoker for > 15 yrs,Stage I,Bronchus and lung,TF-Tumor Free,3
+Adenomas and Adenocarcinomas,Current Reformed Smoker for > 15 yrs,Stage IIB,Bronchus and lung,Unknown,3
+Adenomas and Adenocarcinomas,Current Smoker,Stage IB,Bronchus and lung,Unknown,3
+Adenomas and Adenocarcinomas,Current Smoker,Stage IIA,Bronchus and lung,WT-With Tumor,3
+Adenomas and Adenocarcinomas,Lifelong Non-Smoker,Stage IV,Bronchus and lung,'--,3
+Adenomas and Adenocarcinomas,Not Reported,Stage IA,Bronchus and lung,'--,3
+Adenomas and Adenocarcinomas,Not Reported,Stage IIB,Bronchus and lung,'--,3
+Adenomas and Adenocarcinomas,Not Reported,Stage IIB,Bronchus and lung,WT-With Tumor,3
+"Cystic, Mucinous and Serous Neoplasms",Current Reformed Smoker for > 15 yrs,'--,Bronchus and lung,'--,3
+"Cystic, Mucinous and Serous Neoplasms",Lifelong Non-Smoker,'--,Bronchus and lung,'--,3
+"Cystic, Mucinous and Serous Neoplasms",Lifelong Non-Smoker,'--,Bronchus and lung,TF-Tumor Free,3
+"Cystic, Mucinous and Serous Neoplasms",Lifelong Non-Smoker,Stage IIB,Bronchus and lung,'--,3
+"Cystic, Mucinous and Serous Neoplasms",Lifelong Non-Smoker,Stage IIB,Bronchus and lung,TF-Tumor Free,3
+Acinar Cell Neoplasms,Current Reformed Smoker for < or = 15 yrs,'--,Bronchus and lung,Unknown,2
+Acinar Cell Neoplasms,Current Reformed Smoker for < or = 15 yrs,Stage IIIA,Bronchus and lung,Unknown,2
+Acinar Cell Neoplasms,Current Reformed Smoker for > 15 yrs,'--,Bronchus and lung,WT-With Tumor,2
+Adenomas and Adenocarcinomas,Current Reformed Smoker for < or = 15 yrs,Stage I,Bronchus and lung,'--,2
+Adenomas and Adenocarcinomas,Current Reformed Smoker for < or = 15 yrs,Stage I,Bronchus and lung,TF-Tumor Free,2
+Adenomas and Adenocarcinomas,Current Reformed Smoker for < or = 15 yrs,Stage IV,Bronchus and lung,TF-Tumor Free,2
+Adenomas and Adenocarcinomas,Current Reformed Smoker for < or = 15 yrs,Stage IV,Bronchus and lung,Unknown,2
+Adenomas and Adenocarcinomas,Current Reformed Smoker for > 15 yrs,Stage IV,Bronchus and lung,'--,2
+Adenomas and Adenocarcinomas,"Current Reformed Smoker, Duration Not Specified",Stage IB,Bronchus and lung,'--,2
+Adenomas and Adenocarcinomas,"Current Reformed Smoker, Duration Not Specified",Stage IB,Bronchus and lung,TF-Tumor Free,2
+Adenomas and Adenocarcinomas,Current Smoker,'--,Bronchus and lung,Unknown,2
+Adenomas and Adenocarcinomas,Current Smoker,Stage IIA,Bronchus and lung,Unknown,2
+Adenomas and Adenocarcinomas,Lifelong Non-Smoker,Stage I,Bronchus and lung,'--,2
+Adenomas and Adenocarcinomas,Lifelong Non-Smoker,Stage IA,Bronchus and lung,Unknown,2
+Adenomas and Adenocarcinomas,Lifelong Non-Smoker,Stage IB,Bronchus and lung,Unknown,2
+Adenomas and Adenocarcinomas,Lifelong Non-Smoker,Stage IIA,Bronchus and lung,WT-With Tumor,2
+Adenomas and Adenocarcinomas,Lifelong Non-Smoker,Stage IIIA,Bronchus and lung,Unknown,2
+Adenomas and Adenocarcinomas,Lifelong Non-Smoker,Stage IV,Bronchus and lung,TF-Tumor Free,2
+Adenomas and Adenocarcinomas,Not Reported,'--,Bronchus and lung,TF-Tumor Free,2
+Adenomas and Adenocarcinomas,Not Reported,Stage IA,Bronchus and lung,TF-Tumor Free,2
+Adenomas and Adenocarcinomas,Not Reported,Stage IA,Bronchus and lung,WT-With Tumor,2
+"Cystic, Mucinous and Serous Neoplasms",Current Reformed Smoker for > 15 yrs,'--,Bronchus and lung,TF-Tumor Free,2
+"Cystic, Mucinous and Serous Neoplasms",Current Reformed Smoker for > 15 yrs,'--,Bronchus and lung,WT-With Tumor,2
+"Cystic, Mucinous and Serous Neoplasms",Current Reformed Smoker for > 15 yrs,Stage IIB,Bronchus and lung,'--,2
+"Cystic, Mucinous and Serous Neoplasms",Current Smoker,'--,Bronchus and lung,'--,2
+"Cystic, Mucinous and Serous Neoplasms",Current Smoker,'--,Bronchus and lung,WT-With Tumor,2
+"Cystic, Mucinous and Serous Neoplasms",Current Smoker,Stage IIB,Bronchus and lung,'--,2
+"Cystic, Mucinous and Serous Neoplasms",Current Smoker,Stage IIB,Bronchus and lung,WT-With Tumor,2
+"Cystic, Mucinous and Serous Neoplasms",Lifelong Non-Smoker,'--,Bronchus and lung,WT-With Tumor,2
+"Cystic, Mucinous and Serous Neoplasms",Lifelong Non-Smoker,Stage IIB,Bronchus and lung,WT-With Tumor,2
+Acinar Cell Neoplasms,Current Reformed Smoker for < or = 15 yrs,'--,Bronchus and lung,WT-With Tumor,1
+Acinar Cell Neoplasms,Current Reformed Smoker for < or = 15 yrs,Stage I,Bronchus and lung,'--,1
+Acinar Cell Neoplasms,Current Reformed Smoker for < or = 15 yrs,Stage I,Bronchus and lung,TF-Tumor Free,1
+Acinar Cell Neoplasms,Current Reformed Smoker for < or = 15 yrs,Stage IA,Bronchus and lung,'--,1
+Acinar Cell Neoplasms,Current Reformed Smoker for < or = 15 yrs,Stage IB,Bronchus and lung,'--,1
+Acinar Cell Neoplasms,Current Reformed Smoker for < or = 15 yrs,Stage IB,Bronchus and lung,TF-Tumor Free,1
+Acinar Cell Neoplasms,Current Reformed Smoker for < or = 15 yrs,Stage IIIA,Bronchus and lung,WT-With Tumor,1
+Acinar Cell Neoplasms,Current Reformed Smoker for > 15 yrs,Stage IA,Bronchus and lung,WT-With Tumor,1
+Acinar Cell Neoplasms,Current Reformed Smoker for > 15 yrs,Stage IB,Bronchus and lung,WT-With Tumor,1
+Acinar Cell Neoplasms,Current Reformed Smoker for > 15 yrs,Stage IIA,Bronchus and lung,'--,1
+Acinar Cell Neoplasms,Current Reformed Smoker for > 15 yrs,Stage IIA,Bronchus and lung,TF-Tumor Free,1
+Acinar Cell Neoplasms,Current Reformed Smoker for > 15 yrs,Stage IIIA,Bronchus and lung,'--,1
+Acinar Cell Neoplasms,Current Reformed Smoker for > 15 yrs,Stage IIIA,Bronchus and lung,Unknown,1
+Acinar Cell Neoplasms,Current Reformed Smoker for > 15 yrs,Stage IV,Bronchus and lung,'--,1
+Acinar Cell Neoplasms,Current Reformed Smoker for > 15 yrs,Stage IV,Bronchus and lung,WT-With Tumor,1
+Acinar Cell Neoplasms,Current Smoker,Stage IB,Bronchus and lung,'--,1
+Acinar Cell Neoplasms,Current Smoker,Stage IB,Bronchus and lung,TF-Tumor Free,1
+Acinar Cell Neoplasms,Current Smoker,Stage IIB,Bronchus and lung,'--,1
+Acinar Cell Neoplasms,Current Smoker,Stage IIB,Bronchus and lung,TF-Tumor Free,1
+Acinar Cell Neoplasms,Lifelong Non-Smoker,'--,Bronchus and lung,'--,1
+Acinar Cell Neoplasms,Lifelong Non-Smoker,'--,Bronchus and lung,TF-Tumor Free,1
+Acinar Cell Neoplasms,Lifelong Non-Smoker,Stage IA,Bronchus and lung,'--,1
+Acinar Cell Neoplasms,Lifelong Non-Smoker,Stage IA,Bronchus and lung,TF-Tumor Free,1
+Acinar Cell Neoplasms,Lifelong Non-Smoker,Stage IIIA,Bronchus and lung,'--,1
+Acinar Cell Neoplasms,Lifelong Non-Smoker,Stage IIIA,Bronchus and lung,TF-Tumor Free,1
+Acinar Cell Neoplasms,Not Reported,Stage IA,Bronchus and lung,TF-Tumor Free,1
+Adenomas and Adenocarcinomas,Current Reformed Smoker for < or = 15 yrs,Stage III,Bronchus and lung,'--,1
+Adenomas and Adenocarcinomas,Current Reformed Smoker for < or = 15 yrs,Stage III,Bronchus and lung,TF-Tumor Free,1
+Adenomas and Adenocarcinomas,Current Reformed Smoker for < or = 15 yrs,Stage IIIA,Bronchus and lung,Unknown,1
+Adenomas and Adenocarcinomas,Current Reformed Smoker for < or = 15 yrs,Stage IIIB,Bronchus and lung,TF-Tumor Free,1
+Adenomas and Adenocarcinomas,Current Reformed Smoker for > 15 yrs,Stage I,Bronchus and lung,WT-With Tumor,1
+Adenomas and Adenocarcinomas,Current Reformed Smoker for > 15 yrs,Stage IB,Bronchus and lung,Unknown,1
+Adenomas and Adenocarcinomas,Current Reformed Smoker for > 15 yrs,Stage IIA,Bronchus and lung,Unknown,1
+Adenomas and Adenocarcinomas,Current Reformed Smoker for > 15 yrs,Stage IIIB,Bronchus and lung,'--,1
+Adenomas and Adenocarcinomas,Current Reformed Smoker for > 15 yrs,Stage IIIB,Bronchus and lung,TF-Tumor Free,1
+Adenomas and Adenocarcinomas,Current Reformed Smoker for > 15 yrs,Stage IV,Bronchus and lung,TF-Tumor Free,1
+Adenomas and Adenocarcinomas,"Current Reformed Smoker, Duration Not Specified",'--,Bronchus and lung,'--,1
+Adenomas and Adenocarcinomas,"Current Reformed Smoker, Duration Not Specified",'--,Bronchus and lung,Unknown,1
+Adenomas and Adenocarcinomas,"Current Reformed Smoker, Duration Not Specified",Stage IA,Bronchus and lung,'--,1
+Adenomas and Adenocarcinomas,"Current Reformed Smoker, Duration Not Specified",Stage IA,Bronchus and lung,Unknown,1
+Adenomas and Adenocarcinomas,"Current Reformed Smoker, Duration Not Specified",Stage IIA,Bronchus and lung,'--,1
+Adenomas and Adenocarcinomas,"Current Reformed Smoker, Duration Not Specified",Stage IIA,Bronchus and lung,Unknown,1
+Adenomas and Adenocarcinomas,Current Smoker,Stage II,Bronchus and lung,'--,1
+Adenomas and Adenocarcinomas,Current Smoker,Stage II,Bronchus and lung,TF-Tumor Free,1
+Adenomas and Adenocarcinomas,Current Smoker,Stage II,Bronchus and lung,Unknown,1
+Adenomas and Adenocarcinomas,Current Smoker,Stage IIIA,Bronchus and lung,Unknown,1
+Adenomas and Adenocarcinomas,Current Smoker,Stage IIIB,Bronchus and lung,'--,1
+Adenomas and Adenocarcinomas,Current Smoker,Stage IIIB,Bronchus and lung,TF-Tumor Free,1
+Adenomas and Adenocarcinomas,Lifelong Non-Smoker,'--,Bronchus and lung,Unknown,1
+Adenomas and Adenocarcinomas,Lifelong Non-Smoker,Stage I,Bronchus and lung,TF-Tumor Free,1
+Adenomas and Adenocarcinomas,Lifelong Non-Smoker,Stage I,Bronchus and lung,Unknown,1
+Adenomas and Adenocarcinomas,Lifelong Non-Smoker,Stage IA,Bronchus and lung,WT-With Tumor,1
+Adenomas and Adenocarcinomas,Lifelong Non-Smoker,Stage II,Bronchus and lung,'--,1
+Adenomas and Adenocarcinomas,Lifelong Non-Smoker,Stage II,Bronchus and lung,TF-Tumor Free,1
+Adenomas and Adenocarcinomas,Lifelong Non-Smoker,Stage IIA,Bronchus and lung,Unknown,1
+Adenomas and Adenocarcinomas,Lifelong Non-Smoker,Stage IIB,Bronchus and lung,Unknown,1
+Adenomas and Adenocarcinomas,Lifelong Non-Smoker,Stage IIIB,Bronchus and lung,'--,1
+Adenomas and Adenocarcinomas,Lifelong Non-Smoker,Stage IIIB,Bronchus and lung,TF-Tumor Free,1
+Adenomas and Adenocarcinomas,Not Reported,Stage IIA,Bronchus and lung,'--,1
+Adenomas and Adenocarcinomas,Not Reported,Stage IIA,Bronchus and lung,WT-With Tumor,1
+Adenomas and Adenocarcinomas,Not Reported,Stage IIIA,Bronchus and lung,'--,1
+Adenomas and Adenocarcinomas,Not Reported,Stage IIIA,Bronchus and lung,WT-With Tumor,1
+Adenomas and Adenocarcinomas,Not Reported,Stage IIIB,Bronchus and lung,'--,1
+Adenomas and Adenocarcinomas,Not Reported,Stage IIIB,Bronchus and lung,TF-Tumor Free,1
+Adenomas and Adenocarcinomas,Not Reported,Stage IIIB,Bronchus and lung,WT-With Tumor,1
+Adenomas and Adenocarcinomas,Unknown,'--,Bronchus and lung,'--,1
+Adenomas and Adenocarcinomas,Unknown,Stage IA,Bronchus and lung,'--,1
+Adenomas and Adenocarcinomas,Unknown,Stage IA,Bronchus and lung,TF-Tumor Free,1
+Adenomas and Adenocarcinomas,Unknown,Stage IA,Bronchus and lung,Unknown,1
+Adenomas and Adenocarcinomas,Unknown,Stage IIB,Bronchus and lung,'--,1
+"Cystic, Mucinous and Serous Neoplasms",Current Reformed Smoker for < or = 15 yrs,Stage IB,Bronchus and lung,'--,1
+"Cystic, Mucinous and Serous Neoplasms",Current Reformed Smoker for < or = 15 yrs,Stage IB,Bronchus and lung,TF-Tumor Free,1
+"Cystic, Mucinous and Serous Neoplasms",Current Reformed Smoker for < or = 15 yrs,Stage IIA,Bronchus and lung,'--,1
+"Cystic, Mucinous and Serous Neoplasms",Current Reformed Smoker for < or = 15 yrs,Stage IIA,Bronchus and lung,TF-Tumor Free,1
+"Cystic, Mucinous and Serous Neoplasms",Current Reformed Smoker for < or = 15 yrs,Stage IIB,Bronchus and lung,TF-Tumor Free,1
+"Cystic, Mucinous and Serous Neoplasms",Current Reformed Smoker for > 15 yrs,'--,Bronchus and lung,Unknown,1
+"Cystic, Mucinous and Serous Neoplasms",Current Reformed Smoker for > 15 yrs,Stage IA,Bronchus and lung,'--,1
+"Cystic, Mucinous and Serous Neoplasms",Current Reformed Smoker for > 15 yrs,Stage IA,Bronchus and lung,TF-Tumor Free,1
+"Cystic, Mucinous and Serous Neoplasms",Current Reformed Smoker for > 15 yrs,Stage IIA,Bronchus and lung,'--,1
+"Cystic, Mucinous and Serous Neoplasms",Current Reformed Smoker for > 15 yrs,Stage IIA,Bronchus and lung,TF-Tumor Free,1
+"Cystic, Mucinous and Serous Neoplasms",Current Reformed Smoker for > 15 yrs,Stage IIA,Bronchus and lung,WT-With Tumor,1
+"Cystic, Mucinous and Serous Neoplasms",Current Reformed Smoker for > 15 yrs,Stage IIB,Bronchus and lung,TF-Tumor Free,1
+"Cystic, Mucinous and Serous Neoplasms",Current Reformed Smoker for > 15 yrs,Stage IIB,Bronchus and lung,Unknown,1
+"Cystic, Mucinous and Serous Neoplasms",Current Reformed Smoker for > 15 yrs,Stage IIB,Bronchus and lung,WT-With Tumor,1
+"Cystic, Mucinous and Serous Neoplasms",Current Smoker,Stage IA,Bronchus and lung,'--,1
+"Cystic, Mucinous and Serous Neoplasms",Current Smoker,Stage IA,Bronchus and lung,Unknown,1
+"Cystic, Mucinous and Serous Neoplasms",Current Smoker,Stage IIA,Bronchus and lung,'--,1
+"Cystic, Mucinous and Serous Neoplasms",Current Smoker,Stage IIA,Bronchus and lung,TF-Tumor Free,1
+"Cystic, Mucinous and Serous Neoplasms",Current Smoker,Stage IIA,Bronchus and lung,Unknown,1
+"Cystic, Mucinous and Serous Neoplasms",Lifelong Non-Smoker,Stage IB,Bronchus and lung,'--,1
+"Cystic, Mucinous and Serous Neoplasms",Lifelong Non-Smoker,Stage IB,Bronchus and lung,TF-Tumor Free,1
+"Cystic, Mucinous and Serous Neoplasms",Not Reported,'--,Bronchus and lung,'--,1
+"Cystic, Mucinous and Serous Neoplasms",Not Reported,'--,Bronchus and lung,WT-With Tumor,1
+"Cystic, Mucinous and Serous Neoplasms",Not Reported,Stage IIIA,Bronchus and lung,'--,1
+"Cystic, Mucinous and Serous Neoplasms",Not Reported,Stage IIIA,Bronchus and lung,WT-With Tumor,1
+Ductal and Lobular Neoplasms,Current Reformed Smoker for < or = 15 yrs,'--,Bronchus and lung,'--,1
+Ductal and Lobular Neoplasms,Current Reformed Smoker for < or = 15 yrs,'--,Bronchus and lung,WT-With Tumor,1
+Ductal and Lobular Neoplasms,Current Reformed Smoker for < or = 15 yrs,Stage IIB,Bronchus and lung,'--,1
+Ductal and Lobular Neoplasms,Current Reformed Smoker for < or = 15 yrs,Stage IIB,Bronchus and lung,WT-With Tumor,1
+Ductal and Lobular Neoplasms,Current Reformed Smoker for > 15 yrs,Stage IB,Bronchus and lung,'--,1
+Ductal and Lobular Neoplasms,Current Reformed Smoker for > 15 yrs,Stage IB,Bronchus and lung,TF-Tumor Free,1
+Ductal and Lobular Neoplasms,Lifelong Non-Smoker,'--,Bronchus and lung,'--,1
+Ductal and Lobular Neoplasms,Lifelong Non-Smoker,'--,Bronchus and lung,TF-Tumor Free,1
+Ductal and Lobular Neoplasms,Lifelong Non-Smoker,'--,Bronchus and lung,WT-With Tumor,1
+Ductal and Lobular Neoplasms,Lifelong Non-Smoker,Stage IIB,Bronchus and lung,'--,1
+Ductal and Lobular Neoplasms,Lifelong Non-Smoker,Stage IIB,Bronchus and lung,TF-Tumor Free,1
+Ductal and Lobular Neoplasms,Lifelong Non-Smoker,Stage IIB,Bronchus and lung,WT-With Tumor,1
