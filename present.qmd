@@ -5,7 +5,7 @@ format: html
 editor: visual
 ---
 
-::: {style="text-align: center;"} 
+::: {style="text-align: center;"}
 ## Demographic Analysis by Disease Type
 :::
 
@@ -25,10 +25,9 @@ editor: visual
 
 ![](disease_by_Race.png)
 
-
 ------------------------------------------------------------------------
 
-::: {style="text-align: center;"} 
+::: {style="text-align: center;"}
 ## Disease Type by Smokign Status, Pathologic Stage, and Follow-Up Status of Cancer
 :::
 
@@ -36,8 +35,7 @@ editor: visual
 
 ------------------------------------------------------------------------
 
-
-::: {style="text-align: center;"} 
+::: {style="text-align: center;"}
 #### *Code for Tables and Figures created by RStudio are given below for Reproducibility*
 :::
 
